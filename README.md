@@ -1,6 +1,6 @@
 # Hi, I'm Altaf Hussain 👋
 
-I’m a passionate web developer who enjoys building modern, responsive, and interactive applications. I love turning ideas into real-world projects and continuously learning new technologies to improve my skills.
+I’m a passionate web developer who enjoys building modern, responsive, and interactive applications. I love turning ideas into real-world projects and continuously learning new technologies to improve my skills and create meaningful user experiences.
 
 - 🌱 Currently learning and growing in full-stack web development
 - 💻 Interested in frontend, backend, and cloud-based application development
@@ -11,7 +11,7 @@ I’m a passionate web developer who enjoys building modern, responsive, and int
 
 ## About Me
 
-I enjoy working on web applications that are practical, user-friendly, and visually engaging. My focus is on building strong user experiences while also understanding the underlying architecture and logic behind them.
+I enjoy working on web applications that are practical, user-friendly, and visually engaging. My focus is on building strong user experiences while also understanding the underlying architecture and performance considerations behind them.
 
 I’ve worked with:
 - Frontend technologies like React, Next.js, HTML, CSS, Bootstrap, and Tailwind CSS
@@ -99,8 +99,7 @@ I’m working toward becoming a stronger full-stack developer with:
 I’m always open to learning, collaboration, and interesting opportunities.
 
 - GitHub: [@altumiya](https://github.com/altumiya)
-- LinkedIn: add your profile link here
-- Portfolio: add your profile link here
+- LinkedIn: [Altaf Hussain Shaikh](https://www.linkedin.com/in/altaf-hussain-shaikh-0625b117b)
 
 ---
 
